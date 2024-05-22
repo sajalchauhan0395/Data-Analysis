@@ -1,4 +1,6 @@
 Project Title: Comprehensive Analysis of Zomato Restaurant Data Using Python
+
+
 Project Description:
 The objective of this project is to perform a comprehensive analysis of Zomato restaurant data to uncover insights and trends within the restaurant industry. Utilizing Python and essential libraries like Pandas, NumPy, Matplotlib, SQLite, and Seaborn, this project aims to provide a thorough understanding of various factors affecting restaurants listed on Zomato, such as ratings, location distribution, pricing, and cuisine popularity.
 
